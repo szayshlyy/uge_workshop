@@ -1,3 +1,5 @@
+# Hidden folder where the staging area and commits live: .git/
+
 # cool fish sort cut for listing files: ll
 
 # a simple way to list long format: ls -l
