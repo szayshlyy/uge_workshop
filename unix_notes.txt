@@ -1,0 +1,129 @@
+# cool fish sort cut for listing files: ll
+
+# a simple way to list long format: ls -l
+
+# a simple way to list file: ls
+
+# redirect output into a file: history > moving_around.txt
+
+cd
+man git
+man less
+history | less
+history
+pwd
+subl .
+subl
+subl.
+cd ~
+cd robert.html/
+cd subl.
+ls
+cd robertWeb/
+cd desktop/
+cd 1st\ year/
+cd college/
+cd documents/
+ls ~
+cd ..
+cd d
+cd Applications/
+p
+cd Pictures/
+pw
+cd
+ls -l
+ls Documents/
+cd /
+cd /Users/sanita
+ls -a
+man ls
+ls -lr
+ls -lo
+man
+man r
+ls -
+ls -lt
+ls -t
+git config --global user.email 'szayshlyy@gmail.com'
+git --version
+subl ~/.config/fish/config.fish
+echo $EDITOR
+brew info fish
+brew in
+fish_update_completions
+echo $SHELL
+brew doctor
+brew update
+brew d
+ls -G
+uname
+$ man ls
+cd myQ.html
+li
+cd Class
+cd c
+cd Desktop
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'Sanita'
+brew install git
+echo $PATH
+subl /etc/paths
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+unam
+$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)
+ruby -e "$(curl -fsSl -https://raw.gethub.com/Homebrew/install/master/install)"
+cd desctop
+open TriviaGameWeb.html
+cd Class/
+cd Desktop/
+subl man
+open bin
+cd usr
+man mkdir
+rm Demo
+man rm
+cd ~/Desktop/Class
+cd /Desktop/Class
+cd ~/Class
+~
+ls -l ~
+man man
+cd Demo
+cd demo
+open greeting.html
+touch greeting.html
+mkdir Demo
+mkdir desktop/.sublime
+mkdir
+mad ls
+cd ~/documents
+cd /Users/sanita/documents
+cd /Users/jim/Documents
+ls-l~
+cd documents
+cd users
+cd~
+rmdir mike_made_me
+rm mike_made_me
+rn mike_made_me
+rm mike.txt
+re mike.txt
+touch mike.txt
+mkdir mike_made_me
+mdir mike
+cd college
+up
+cd up
+cd sanitas-macbook-air/macintosh_hd/users
+cd users/sanita/documents
+cd documents/college
+e
+cd documents/collage
+cd desktop
